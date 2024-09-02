@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Sajad Nowroozi
+# Hi there 👋, I'm Sajad Nouroozi
 
 ### About Me:
 - 🔭 I’m currently working on mobile applications using the Flutter framework.
@@ -10,6 +10,7 @@
 ### Connect with Me:
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/sajadnowroozi2003)
 [![Instagram](https://img.shields.io/badge/-Instagram-pink?style=flat&logo=instagram)](https://www.instagram.com/sajad.nowroozi/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sajjad-nowrozi-717620255/)
 
 ### Technologies and Tools:
 ![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat&logo=Flutter)
