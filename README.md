@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Sajad Nouroozi
+# Hi there 👋, I'm Sajad Nowroozi
 
 ### About Me:
 - 🔭 I’m currently working on mobile applications using the Flutter framework.
