@@ -27,6 +27,8 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-blue?style=flat&logo=intellij-idea)
 ![Firebase](https://img.shields.io/badge/-Firebase-yellow?style=flat&logo=firebase)
 ![ChatGPT](https://img.shields.io/badge/-ChatGPT-green?style=flat&logo=openai)
+![Winbox](https://img.shields.io/badge/-Winbox-blue?style=flat&logo=windows)
+![Windows](https://img.shields.io/badge/-Windows-blue?style=flat&logo=windows)
 
 ### GitHub Stats:
 ![Sajad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sajadnowroozi2003&show_icons=true&theme=radical)
