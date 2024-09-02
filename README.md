@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Sajad Nowroozi
+# Hi there 👋, I'm Sajad Nowroozi😊
 
 ### About Me:
 - 🔭 I’m currently working on mobile applications using the Flutter framework.
@@ -29,6 +29,7 @@
 ![ChatGPT](https://img.shields.io/badge/-ChatGPT-green?style=flat&logo=openai)
 ![Winbox](https://img.shields.io/badge/-Winbox-blue?style=flat&logo=windows)
 ![Windows](https://img.shields.io/badge/-Windows-blue?style=flat&logo=windows)
+![Figma](https://img.shields.io/badge/-Figma-black?style=flat&logo=figma)
 
 ### GitHub Stats:
 ![Sajad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sajadnowroozi2003&show_icons=true&theme=radical)
