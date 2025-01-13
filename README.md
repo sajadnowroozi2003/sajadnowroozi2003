@@ -32,13 +32,13 @@
 ![Figma](https://img.shields.io/badge/-Figma-black?style=flat&logo=figma)
 ![Shopify](https://img.shields.io/badge/-Shopify-green?style=flat&logo=shopify)
 
-### GitHub Stats:
- ![Sajad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sajadnowroozi2003&show_icons=true&theme=radical&hide=cpp)
+//### GitHub Stats:
+// ![Sajad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sajadnowroozi2003&show_icons=true&theme=radical&hide=cpp)
 
 
 
-### Most Used Languages:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sajadnowroozi2003&layout=compact&theme=radical)
+//### Most Used Languages:
+//![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sajadnowroozi2003&layout=compact&theme=radical)
 
 ### Spotify Playing:
 [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/your-username)
