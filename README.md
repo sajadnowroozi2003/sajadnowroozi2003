@@ -30,9 +30,11 @@
 ![Winbox](https://img.shields.io/badge/-Winbox-blue?style=flat&logo=windows)
 ![Windows](https://img.shields.io/badge/-Windows-blue?style=flat&logo=windows)
 ![Figma](https://img.shields.io/badge/-Figma-black?style=flat&logo=figma)
+![Shopify](https://img.shields.io/badge/-Shopify-green?style=flat&logo=shopify)
 
 ### GitHub Stats:
- ![Sajad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sajadnowroozi2003&show_icons=true&theme=radical)
+ ![Sajad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sajadnowroozi2003&show_icons=true&theme=radical&hide=cpp)
+
 
 
 ### Most Used Languages:
