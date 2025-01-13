@@ -32,7 +32,8 @@
 ![Figma](https://img.shields.io/badge/-Figma-black?style=flat&logo=figma)
 
 ### GitHub Stats:
-![Sajad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sajadnowroozi2003&show_icons=true&theme=radical)
+ ![Sajad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sajadnowroozi2003&show_icons=true&theme=radical)
+
 
 ### Most Used Languages:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sajadnowroozi2003&layout=compact&theme=radical)
