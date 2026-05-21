@@ -3,7 +3,7 @@
   🔹 Flutter Developer | 🔸 Mobile App Enthusiast | 🔹 Creative Coder  
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=00BFA6&center=true&vCenter=true&multiline=true&width=800&height=80&lines=Hi+there!+I'm+Sajad+Nowroozi+%F0%9F%91%8B;Flutter+%7C+Dart+%7C+Java+%7C+JS+%7C+UI%2FUX+Designer;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=00BFA6&center=true&vCenter=true&multiline=true&width=800&height=80&lines=Hi+there!+I'm+Sajjad+Nowrozi+%F0%9F%91%8B;Flutter+%7C+Dart+%7C+Java+%7C+JS+%7C+UI%2FUX+Designer;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
 </p>
 
 ---
